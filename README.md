@@ -1,3 +1,7 @@
+** 包含脱敏工具类 **
+
+
+
 ## sofa-common-tools
 
 ![](https://travis-ci.org/alipay/sofa-common-tools.svg?branch=master) 
